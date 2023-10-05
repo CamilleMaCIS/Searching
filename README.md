@@ -1,1 +1,1 @@
-# Searching
+# Searching with linearSearch and binarySearch
